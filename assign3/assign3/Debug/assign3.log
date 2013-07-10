@@ -1,0 +1,113 @@
+﻿Build started 12/7/2012 1:12:07 PM.
+     1>Project "C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\assign3\assign3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\assign3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"glut-3.7.6-bin" /IpicLibrary /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt assign3.cpp
+         assign3.cpp
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(630): warning C4554: '^' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(817): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(819): warning C4101: 'error' : unreferenced local variable
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(830): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(832): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(839): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(841): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(848): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(850): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(856): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(863): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(872): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(874): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(896): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(913): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\users\jonathan chu\documents\my dropbox\school work\fall 2012\csci 480\project 3\assign3\assign3\assign3.cpp(866): warning C4101: 'str' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\assign3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"glut-3.7.6-bin" /LIBPATH:picLibrary libjpeg.lib libtiff.lib picLibrary.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\assign3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\assign3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\assign3.lib" /MACHINE:X86 Debug\assign3.exe.embed.manifest.res
+         Debug\assign3.obj
+         Debug\matrix.obj
+         Debug\pixelBuffer.obj
+         Debug\ray.obj
+         Debug\vector.obj
+         picLibrary.lib(pic.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'libcmtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Generating code
+         Finished generating code
+     1>picLibrary.lib(pic.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'picLibrary.lib(pic.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>picLibrary.lib(jpeg.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'picLibrary.lib(jpeg.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>picLibrary.lib(ppm.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'picLibrary.lib(ppm.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>picLibrary.lib(tiff.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'picLibrary.lib(tiff.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcapimin.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcapimin.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcapistd.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcapistd.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcarith.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcarith.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcparam.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcparam.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdatadst.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdatadst.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcinit.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcinit.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcmaster.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcmaster.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcmarker.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcmarker.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcmainct.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcmainct.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcprepct.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcprepct.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jccoefct.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jccoefct.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jccolor.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jccolor.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcsample.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcsample.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jchuff.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jchuff.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcdctmgr.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcdctmgr.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jfdctfst.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jfdctfst.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jfdctflt.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jfdctflt.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jfdctint.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jfdctint.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdapimin.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdapimin.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdapistd.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdapistd.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdarith.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdarith.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdatasrc.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdatasrc.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdmaster.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdmaster.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdinput.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdinput.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdmarker.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdmarker.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdhuff.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdhuff.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdmainct.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdmainct.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdcoefct.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdcoefct.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdpostct.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdpostct.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jddctmgr.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jddctmgr.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jidctfst.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jidctfst.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jidctflt.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jidctflt.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jidctint.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jidctint.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdsample.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdsample.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdcolor.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdcolor.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jquant1.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jquant1.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jquant2.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jquant2.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jdmerge.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jdmerge.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jaricom.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jaricom.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jcomapi.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jcomapi.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jutils.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jutils.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jerror.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jerror.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jmemmgr.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jmemmgr.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+     1>libjpeg.lib(jmemnobs.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libjpeg.lib(jmemnobs.obj)' or at 'C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\vc100.pdb'; linking object as if no debug info
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\assign3.exe.embed.manifest" /manifest Debug\assign3.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         assign3.vcxproj -> C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\Debug\assign3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\assign3.unsuccessfulbuild".
+         Touching "Debug\assign3.lastbuildstate".
+     1>Done Building Project "C:\Users\Jonathan Chu\Documents\My Dropbox\School Work\Fall 2012\CSCI 480\Project 3\assign3\assign3\assign3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.15
