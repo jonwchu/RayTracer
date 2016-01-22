@@ -265,10 +265,10 @@ void trace(ray* currentRay, int x, int y)
 
 					bool tempState = false;
 
-					for(int i = 0; i < num_spheres; i++)
+					for(int k = 0; k < num_spheres; k++)
 					{
 						double tempTime = 0.0;
-						if(intersectsSphere(toLight, tempNormal, i, tempTime, tempState, true))
+						if(intersectsSphere(toLight, tempNormal, k, tempTime, tempState, true))
 						{
 							if((tempTime < lightTime) && tempTime > 0.001)
 							{
@@ -276,11 +276,11 @@ void trace(ray* currentRay, int x, int y)
 							}
 						}
 					}
-					for(int j = 0; j < num_triangles; j++)
+					for(int l = 0; l < num_triangles; l++)
 					{
-						vector* triV0 = new vector(triangles[j].v[0].position[0], triangles[j].v[0].position[1], triangles[j].v[0].position[2]);
-						vector* triV1 = new vector(triangles[j].v[1].position[0], triangles[j].v[1].position[1], triangles[j].v[1].position[2]);
-						vector* triV2 = new vector(triangles[j].v[2].position[0], triangles[j].v[2].position[1], triangles[j].v[2].position[2]);
+						vector* triV0 = new vector(triangles[l].v[0].position[0], triangles[l].v[0].position[1], triangles[l].v[0].position[2]);
+						vector* triV1 = new vector(triangles[l].v[1].position[0], triangles[l].v[1].position[1], triangles[l].v[1].position[2]);
+						vector* triV2 = new vector(triangles[l].v[2].position[0], triangles[l].v[2].position[1], triangles[l].v[2].position[2]);
 
 						double tempAlpha, tempBeta, tempGamma;
 
@@ -450,10 +450,10 @@ void trace(ray* currentRay, int x, int y)
 					double tempTime = 0.0;
 					bool tempState;
 
-					for(int i = 0; i < num_spheres; i++)
+					for(int l = 0; l < num_spheres; l++)
 					{
 						tempTime = 0.0;
-						if(intersectsSphere(toLight, tempNormal, i, tempTime, tempState, false))
+						if(intersectsSphere(toLight, tempNormal, l, tempTime, tempState, false))
 						{
 							if(tempTime < lightTime)
 							{
